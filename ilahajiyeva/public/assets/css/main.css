@@ -685,6 +685,9 @@ section,
 /*--------------------------------------------------------------
 # Skills Section
 --------------------------------------------------------------*/
+.skills {
+    background-color: rgb(238, 229, 218);;
+}
 .skills .progress {
   height: 60px;
   display: block;
